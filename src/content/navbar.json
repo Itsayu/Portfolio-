@@ -1,0 +1,37 @@
+[
+	{
+	  "url": "/",
+	  "title": "Home"
+	},
+	{
+	  "url": "/projects",
+	  "title": "Projects"
+	},
+	{
+	  "url": "/articles",
+	  "title": "Articles"
+	},
+	{
+	  "url": "other",
+	  "title": "Other",
+	  "subMenu": [
+		{
+		  "url": "/tools",
+		  "title": "Tools"
+		},
+		{
+		  "url": "/contact",
+		  "title": "Contact"
+		},
+		{
+			"url": "/community",
+			"title": "community"			
+		},
+		{
+			"url": "/SkillsExperience",
+			"title": "Skills & Experience"
+		}
+	  ]
+	}
+  ]
+  
